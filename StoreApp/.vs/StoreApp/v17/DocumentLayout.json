@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Canberk\\Desktop\\AspNetCore\\StoreApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6322DC92-9728-4E14-9F3A-C1C0C64CF9A5}|StoreApp.data\\StoreApp.Data.csproj|c:\\users\\canberk\\desktop\\aspnetcore\\storeapp\\storeapp.data\\concrete\\efstorerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6322DC92-9728-4E14-9F3A-C1C0C64CF9A5}|StoreApp.data\\StoreApp.Data.csproj|solutionrelative:storeapp.data\\concrete\\efstorerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6322DC92-9728-4E14-9F3A-C1C0C64CF9A5}|StoreApp.data\\StoreApp.Data.csproj|c:\\users\\canberk\\desktop\\aspnetcore\\storeapp\\storeapp.data\\concrete\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6322DC92-9728-4E14-9F3A-C1C0C64CF9A5}|StoreApp.data\\StoreApp.Data.csproj|solutionrelative:storeapp.data\\concrete\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6322DC92-9728-4E14-9F3A-C1C0C64CF9A5}|StoreApp.data\\StoreApp.Data.csproj|c:\\users\\canberk\\desktop\\aspnetcore\\storeapp\\storeapp.data\\abstract\\istorerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6322DC92-9728-4E14-9F3A-C1C0C64CF9A5}|StoreApp.data\\StoreApp.Data.csproj|solutionrelative:storeapp.data\\abstract\\istorerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EfStoreRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Canberk\\Desktop\\AspNetCore\\StoreApp\\StoreApp.Data\\Concrete\\EfStoreRepository.cs",
+              "RelativeDocumentMoniker": "StoreApp.Data\\Concrete\\EfStoreRepository.cs",
+              "ToolTip": "C:\\Users\\Canberk\\Desktop\\AspNetCore\\StoreApp\\StoreApp.Data\\Concrete\\EfStoreRepository.cs",
+              "RelativeToolTip": "StoreApp.Data\\Concrete\\EfStoreRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T12:12:23.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Canberk\\Desktop\\AspNetCore\\StoreApp\\StoreApp.Data\\Concrete\\Product.cs",
+              "RelativeDocumentMoniker": "StoreApp.Data\\Concrete\\Product.cs",
+              "ToolTip": "C:\\Users\\Canberk\\Desktop\\AspNetCore\\StoreApp\\StoreApp.Data\\Concrete\\Product.cs",
+              "RelativeToolTip": "StoreApp.Data\\Concrete\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T12:12:22.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IStoreRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Canberk\\Desktop\\AspNetCore\\StoreApp\\StoreApp.Data\\Abstract\\IStoreRepository.cs",
+              "RelativeDocumentMoniker": "StoreApp.Data\\Abstract\\IStoreRepository.cs",
+              "ToolTip": "C:\\Users\\Canberk\\Desktop\\AspNetCore\\StoreApp\\StoreApp.Data\\Abstract\\IStoreRepository.cs",
+              "RelativeToolTip": "StoreApp.Data\\Abstract\\IStoreRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T12:12:21.073Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
