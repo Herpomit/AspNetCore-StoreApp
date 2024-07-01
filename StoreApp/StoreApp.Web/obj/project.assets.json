@@ -2268,8 +2268,8 @@
     },
     "StoreApp.Data/1.0.0": {
       "type": "project",
-      "path": "../StoreApp.data/StoreApp.Data.csproj",
-      "msbuildProject": "../StoreApp.data/StoreApp.Data.csproj"
+      "path": "../StoreApp.Data/StoreApp.Data.csproj",
+      "msbuildProject": "../StoreApp.Data/StoreApp.Data.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -2307,8 +2307,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\Canberk\\Desktop\\AspNetCore\\StoreApp\\StoreApp.data\\StoreApp.Data.csproj": {
-              "projectPath": "C:\\Users\\Canberk\\Desktop\\AspNetCore\\StoreApp\\StoreApp.data\\StoreApp.Data.csproj"
+            "C:\\Users\\Canberk\\Desktop\\AspNetCore\\StoreApp\\StoreApp.Data\\StoreApp.Data.csproj": {
+              "projectPath": "C:\\Users\\Canberk\\Desktop\\AspNetCore\\StoreApp\\StoreApp.Data\\StoreApp.Data.csproj"
             }
           }
         }

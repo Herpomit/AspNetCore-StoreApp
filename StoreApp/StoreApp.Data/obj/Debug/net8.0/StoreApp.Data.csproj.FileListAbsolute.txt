@@ -12,3 +12,4 @@ C:\Users\Canberk\Desktop\AspNetCore\StoreApp\StoreApp.Data\obj\Debug\net8.0\refi
 C:\Users\Canberk\Desktop\AspNetCore\StoreApp\StoreApp.Data\obj\Debug\net8.0\StoreApp.Data.pdb
 C:\Users\Canberk\Desktop\AspNetCore\StoreApp\StoreApp.Data\obj\Debug\net8.0\StoreApp.Data.genruntimeconfig.cache
 C:\Users\Canberk\Desktop\AspNetCore\StoreApp\StoreApp.Data\obj\Debug\net8.0\ref\StoreApp.Data.dll
+C:\Users\Canberk\Desktop\AspNetCore\storeapp\StoreApp.Data\obj\Debug\net8.0\StoreApp.Data.sourcelink.json

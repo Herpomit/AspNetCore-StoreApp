@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "T+C4JUNY8Go=",
+  "dgSpecHash": "L9Iiv9TSywI=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Canberk\\Desktop\\AspNetCore\\StoreApp\\StoreApp.data\\StoreApp.Data.csproj",
+  "projectFilePath": "C:\\Users\\Canberk\\Desktop\\AspNetCore\\StoreApp\\StoreApp.Data\\StoreApp.Data.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Canberk\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\Canberk\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\6.0.0\\microsoft.bcl.asyncinterfaces.6.0.0.nupkg.sha512",

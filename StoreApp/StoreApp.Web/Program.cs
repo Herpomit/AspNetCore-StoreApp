@@ -36,6 +36,9 @@ app.UseRouting();
 
 app.UseAuthorization();
 
+// ürün detay sayfası samsung-s24 => urun detay
+// products/telefon => kategori ürün listesi
+
 app.MapDefaultControllerRoute();
 
 app.Run();

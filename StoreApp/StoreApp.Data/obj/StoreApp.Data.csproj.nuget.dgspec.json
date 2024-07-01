@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Canberk\\Desktop\\AspNetCore\\StoreApp\\StoreApp.data\\StoreApp.Data.csproj": {}
+    "C:\\Users\\Canberk\\Desktop\\AspNetCore\\StoreApp\\StoreApp.Data\\StoreApp.Data.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Canberk\\Desktop\\AspNetCore\\StoreApp\\StoreApp.data\\StoreApp.Data.csproj": {
+    "C:\\Users\\Canberk\\Desktop\\AspNetCore\\StoreApp\\StoreApp.Data\\StoreApp.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Canberk\\Desktop\\AspNetCore\\StoreApp\\StoreApp.data\\StoreApp.Data.csproj",
+        "projectUniqueName": "C:\\Users\\Canberk\\Desktop\\AspNetCore\\StoreApp\\StoreApp.Data\\StoreApp.Data.csproj",
         "projectName": "StoreApp.Data",
-        "projectPath": "C:\\Users\\Canberk\\Desktop\\AspNetCore\\StoreApp\\StoreApp.data\\StoreApp.Data.csproj",
+        "projectPath": "C:\\Users\\Canberk\\Desktop\\AspNetCore\\StoreApp\\StoreApp.Data\\StoreApp.Data.csproj",
         "packagesPath": "C:\\Users\\Canberk\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Canberk\\Desktop\\AspNetCore\\StoreApp\\StoreApp.data\\obj\\",
+        "outputPath": "C:\\Users\\Canberk\\Desktop\\AspNetCore\\StoreApp\\StoreApp.Data\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Canberk\\AppData\\Roaming\\NuGet\\NuGet.Config",
