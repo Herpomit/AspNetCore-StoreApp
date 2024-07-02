@@ -15,6 +15,8 @@ public class CategoriesListViewComponent : ViewComponent
 
     public IViewComponentResult Invoke()
     {
+        ViewBag.SelectedCategory = RouteData?.Values["category"];
+
         return View(_storeRepository.Categories.Select(x=> new CategoryViewModel
         {
             Id = x.Id,
